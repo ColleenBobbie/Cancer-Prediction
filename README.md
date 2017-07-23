@@ -11,7 +11,7 @@ This analysis relied heavily on using R packages for machine learning and compar
 Complete analysis for this project can be found here: http://cbobbie.wixsite.com/colleenbobbie/predictingbreastcancer
 
 ## Summary
-  * This tutorial explored two decision tree algorithms, CART and C4.5, to help predict whether a breast mass was begnign or malignant. 
+  * This tutorial explored two decision tree algorithms, CART and C4.5, to help predict whether a breast mass was benign or malignant. 
   * Ultimately, the C4.5 balanced class design decision tree produced the highest accuracy and lowest false negative rates. 
   * The C4.5 balanced tree highlighted the largest concave point of the cell nuclei as the most influential predictor for tumour outcomes in this dataset.
 
