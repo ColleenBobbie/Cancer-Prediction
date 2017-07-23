@@ -1,5 +1,5 @@
 # Predicting breast cancer using machine learning
-This repository contains source code for a data exploration project which explored various machine learning techniques to ultimately predict whether breast tumours are benign or malignant.
+This repository contains source code for a data exploration project which explored various machine learning techniques to ultimately predict malignant or benign breast tumours.
 
 ## Dataset
 The data for this project can be found here: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
@@ -13,5 +13,5 @@ Complete analysis for this project can be found here: http://cbobbie.wixsite.com
 ## Summary
   * This tutorial explored two decision tree algorithms, CART and C4.5, to help predict whether a breast mass was begnign or malignant. 
   * Ultimately, the C4.5 balanced class design decision tree produced the highest accuracy and lowest false negative rates. 
-  * The C4.5 balanced tree highlighted the largest concave point of the cell nuclei as the most influential predictor in breast cancer outcomes.
+  * The C4.5 balanced tree highlighted the largest concave point of the cell nuclei as the most influential predictor for tumour outcomes in this dataset.
 
